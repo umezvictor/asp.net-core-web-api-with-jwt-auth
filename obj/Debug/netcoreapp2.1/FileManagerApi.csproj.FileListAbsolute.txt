@@ -1,0 +1,14 @@
+C:\Users\vumezuruike\source\repos\FileManagerApi\bin\Debug\netcoreapp2.1\FileManagerApi.deps.json
+C:\Users\vumezuruike\source\repos\FileManagerApi\bin\Debug\netcoreapp2.1\FileManagerApi.runtimeconfig.json
+C:\Users\vumezuruike\source\repos\FileManagerApi\bin\Debug\netcoreapp2.1\FileManagerApi.runtimeconfig.dev.json
+C:\Users\vumezuruike\source\repos\FileManagerApi\bin\Debug\netcoreapp2.1\FileManagerApi.dll
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.csprojAssemblyReference.cache
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.csproj.CoreCompileInputs.cache
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.RazorAssemblyInfo.cache
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.RazorAssemblyInfo.cs
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.AssemblyInfoInputs.cache
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.AssemblyInfo.cs
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.RazorTargetAssemblyInfo.cache
+C:\Users\vumezuruike\source\repos\FileManagerApi\bin\Debug\netcoreapp2.1\FileManagerApi.pdb
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.dll
+C:\Users\vumezuruike\source\repos\FileManagerApi\obj\Debug\netcoreapp2.1\FileManagerApi.pdb
